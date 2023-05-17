@@ -128,11 +128,6 @@
     margin-right: 300px;
   }
   
-  @media (max-width: 600px) {
-    .column {
-    flex: 100%;
-    }
-  }
 
 
 
